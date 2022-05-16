@@ -1,0 +1,14 @@
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.exe
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.deps.json
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.json
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.dll
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.pdb
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfo.cs
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.dll
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.pdb
+C:\Users\thesi\Desktop\4\ОЗИ\Лабораторные\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.genruntimeconfig.cache
