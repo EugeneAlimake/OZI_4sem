@@ -1,0 +1,27 @@
+D:\Desktop\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.exe
+D:\Desktop\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.deps.json
+D:\Desktop\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.json
+D:\Desktop\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.dev.json
+D:\Desktop\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.dll
+D:\Desktop\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.pdb
+D:\Desktop\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csprojAssemblyReference.cache
+D:\Desktop\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfoInputs.cache
+D:\Desktop\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfo.cs
+D:\Desktop\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csproj.CoreCompileInputs.cache
+D:\Desktop\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.dll
+D:\Desktop\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.pdb
+D:\Desktop\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.genruntimeconfig.cache
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.exe
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.deps.json
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.json
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfo.cs
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\thesi\Desktop\4\ОЗИ\ОЗИ Практика\OZI 7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.genruntimeconfig.cache
